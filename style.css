@@ -1,0 +1,35 @@
+h1 {background: red;
+border-style: double;
+border-width: 40px;
+border-color: blue red green yellow;
+border-radius: 20px;
+text-align: center;}
+
+.para-1 {background-color: #9cacff;
+color: blue;
+font-size: 20px}
+
+.para-2 {border: 20px solid green;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+padding-top: 40px;
+padding-bottom: 40px;
+padding-left: 40px;
+padding-right: 40px;
+}
+
+.para-3 {font-weight: bold;
+font-size: 40px;
+font-family: monospace;
+color: red;}
+
+.para-hw {font-weight: italic;
+font-size: 24px;
+text-align: center;
+text-shadow: 2px 2px #11ff00;}
+
+.center {display: block;
+margin-left: auto;
+margin-right: auto;}
